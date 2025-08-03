@@ -9,11 +9,11 @@ Este repositorio contiene el código y la configuración necesarios para despleg
 ### Pruebas del Despliegue
 A continuación se muestran las pruebas del despliegue exitoso del contrato en la red de Arbitrum Sepolia.
 
-- **Dirección del Contrato:** `[Pega aquí la dirección de tu contrato]`
-  - Ejemplo: `0xff49b5c3Fd278d78cd6DfA5B52dfbd57F9c7dca0`
+- **Dirección del Contrato:** `0xff49b5c3Fd278d78cd6DfA5B52dfbd57F9c7dca0`
+  
 
 - **Contrato Verificado en Arbiscan:**
-  - [Pega aquí el enlace a la página de tu contrato verificado en Arbiscan Sepolia](https://sepolia.arbiscan.io/address/0xff49b5c3Fd278d78cd6DfA5B52dfbd57F9c7dca0#code)
+  https://sepolia.arbiscan.io/address/0xff49b5c3Fd278d78cd6DfA5B52dfbd57F9c7dca0#code
 
 ---
 
