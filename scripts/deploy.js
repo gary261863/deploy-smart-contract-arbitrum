@@ -6,7 +6,7 @@ async function main() {
   console.log("Desplegando contratos con la cuenta:", deployer.address);
 
   const HelloWorld = await hre.ethers.getContractFactory("HelloWorld");
-  const helloWorld = await HelloWorld.deploy("¡Hola, Arbitrum!");
+  const helloWorld = await HelloWorld.deploy("Hola Arbitrum");
 
   await helloWorld.waitForDeployment();
 
